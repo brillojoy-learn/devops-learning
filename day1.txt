@@ -1,0 +1,10 @@
+Day 1 - DevOps Basics
+
+What is DevOps:
+DevOps is a practice that combines development and operations to improve software delivery speed and reliability.
+
+What is CI/CD:
+CI/CD is a process where code is automatically built, tested, and deployed.
+
+Why DevOps:
+To reduce manual work, improve deployment speed, and increase system reliability.
