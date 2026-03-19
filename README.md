@@ -1,9 +1,16 @@
-# DevOps Learning Journey
+# DevOps Learning Journey 🚀
 
-## Day 1
-- Learned DevOps basics
-- Understood CI/CD concept
+Hi, I'm Brillo Joy.  
+I'm transitioning from L2 Support Engineer to DevOps Engineer.
 
-## Tools Used
+## 🔹 Day 1 - DevOps Basics
+- Learned what DevOps is
+- Understood CI/CD pipeline
+- Why automation is important
+
+## 🔹 Tools Used
 - Git
 - GitHub
+
+## 🔹 Next Plan
+- Learn Linux basics
