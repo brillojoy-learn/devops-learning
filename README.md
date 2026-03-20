@@ -1,22 +1,41 @@
 # DevOps Learning Journey 🚀
 
 Hi, I'm Brillo Joy  
-L2 Support Engineer (6 years experience) transitioning into DevOps.
+L2 Support Engineer with 6 years of experience  
+Currently transitioning into DevOps Engineer.
+
+---
 
 ## 🎯 Goal
-To become a DevOps Engineer in 4–6 months.
+Become a DevOps Engineer in 4–6 months by learning and implementing real-world tools.
+
+---
 
 ## 📅 Progress
 
-### Day 1 - DevOps Basics
-- Learned DevOps concepts
-- Understood CI/CD pipeline
+### ✅ Day 1 - DevOps Basics
+- What is DevOps
+- CI/CD concept
 - Importance of automation
 
-## 🛠 Tools Used
-- Git
-- GitHub
+### ✅ Day 2 - Linux Basics
+- File navigation (`pwd`, `ls`, `cd`)
+- File operations (`mkdir`, `touch`, `cp`, `mv`, `rm`)
+
+---
+
+## 🛠 Tools & Skills
+- Git & GitHub
+- Linux Basics (in progress)
+
+---
 
 ## 📌 Next Steps
-- Linux basics
-- Command line practice
+- Linux advanced commands
+- Shell scripting
+- AWS Cloud
+
+---
+
+## 🔗 Repository Purpose
+This repository tracks my daily progress and hands-on practice in DevOps.
